@@ -18,7 +18,7 @@ get_header(); ?>
 	<div class="top-content">
 		<div class="div">
 
-			<h1>Коттеджный посёлок <span>«Семейный»</span></h1>
+			<h1>Коттеджный посёлок <br><span>«Экопарк Северный»</span></h1>
 
 			<a href="#take-information" class="top-button ripplelink open-form-button"><span>Узнать Подробнее</span></a>
 
@@ -154,8 +154,9 @@ get_header(); ?>
 
 <div class="map-general-section" id="general-plan">
 	<div class="container">
-		<h3 class="type-head">Генплан коттеджного поселка "Семейный"</h3>
-		<?php echo do_shortcode('[map]'); ?>
+		<h3 class="type-head">Генплан коттеджного поселка "Экопарк Северный"</h3>
+		<?php// echo do_shortcode('[map]'); ?>
+		<img class="img-responsive" src="<?php echo $template_url; ?>/img/general-plan.png" alt="general plan" >
 		<div class="button-container">
 			<a href="#take-booking" class="top-button ripplelink open-form-button"><span>Забронировать участок</span></a>
 		</div>
@@ -240,7 +241,7 @@ get_header(); ?>
 						<h3>Одноэтажный дом</h3>
 						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/scheme.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/sm.jpg) center; background-size: cover;" data-fancybox="house-2_4th_roof"></a>
 						<div class="d-none">
-							<!-- <a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg" data-fancybox="house-2_4th_roof" data-thumb="<?php// echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg"></a> -->
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg"></a>
 						</div>
 					</div>
 
@@ -399,62 +400,11 @@ get_header(); ?>
 
 				</div>
 
-				<!-- <div class="tab-content" data-tab="big">
-
-					<div class="text">
-						<h2>Каменный дом 150,19 м<sup><small>2</small></sup><br> с односкатной кровлей</h2>
-						<h4>Наполнение Народного дома:</h4>
-						<ul>
-							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
-							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; деревянное межэтажное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
-							<li>Кровля - односкатная под уклоном, устройство рулонной кровли</li>
-							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
-							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Внутренняя отделка: чистовая отделка, шпатлевка внешних стен</li>
-							<li>Вентиляция</li>
-							<li>Крыльцо, балконы с ограждением - ковка</li>
-						</ul>
-						<h4>Инженерные Сети:</h4>
-						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
-							<li>Отопление - электрические радиаторы</li>
-						</ul>
-						<h4>Благоустройство:</h4>
-						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
-							<li>Дорога внутриквартальная</li>
-							<li>Освещение поселка</li>
-						</ul>
-						<h2>Стоимость: 5.39 <small>млн. ₽</small></h2>
-					</div>
-
-					<div class="name-image">
-						<h3>Народный дом</h3>
-						<a href="<?php// echo $template_url; ?>/img/houses/people_3/1.jpg" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/houses/people_3/sm.jpg) center; background-size: cover;" data-fancybox="house-people_3"></a>
-						<div class="d-none">
-							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_3/2.jpg" data-fancybox="house-people_3" data-thumb="<?php// echo $template_url; ?>/img/houses/people_3/2.jpg"></a>
-							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_3/3.jpg" data-fancybox="house-people_3" data-thumb="<?php// echo $template_url; ?>/img/houses/people_3/3.jpg"></a>
-							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_3/4.jpg" data-fancybox="house-people_3" data-thumb="<?php// echo $template_url; ?>/img/houses/people_3/4.jpg"></a>
-							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_3/5.jpg" data-fancybox="house-people_3" data-thumb="<?php// echo $template_url; ?>/img/houses/people_3/5.jpg"></a>
-							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_3/6.jpg" data-fancybox="house-people_3" data-thumb="<?php// echo $template_url; ?>/img/houses/people_3/6.jpg"></a>
-							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_3/7.jpg" data-fancybox="house-people_3" data-thumb="<?php// echo $template_url; ?>/img/houses/people_3/7.jpg"></a>
-							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_3/scheme.jpg" data-fancybox="house-people_3" data-thumb="<?php// echo $template_url; ?>/img/houses/people_3/scheme.jpg"></a>
-						</div>
-					</div>
-
-				</div> -->
-
 			</div>
 
 			<div class="tab-btns">
 				<button class="tab-btn active" data-tab="small">6х6</button>
 				<button class="tab-btn" data-tab="medium">9х6</button>
-				<!-- <button class="tab-btn" data-tab="big">8х9</button> -->
 			</div>
 
 		</div>
@@ -656,26 +606,26 @@ get_header(); ?>
 
 
 
-<div class="progress-section" id="progress-section">
+<!-- <div class="progress-section" id="progress-section">
 	<div class="container">
 		<h2 class="type-head">Ход строительства</h2>
 		<div class="gallery">
 
-			<a href="<?php echo $template_url; ?>/img/process/1.JPG?v=1.1" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/process/sm/1.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php echo $template_url; ?>/img/process/sm/1.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/1.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.1"></a>
 
-			<a href="<?php echo $template_url; ?>/img/process/2.JPG?v=1.1" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/process/sm/2.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php echo $template_url; ?>/img/process/sm/2.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/2.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.1"></a>
 
-			<a href="<?php echo $template_url; ?>/img/process/3.JPG?v=1.1" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/process/sm/3.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php echo $template_url; ?>/img/process/sm/3.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/3.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.1"></a>
 
-			<a href="<?php echo $template_url; ?>/img/process/4.JPG?v=1.1" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/process/sm/4.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php echo $template_url; ?>/img/process/sm/4.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/4.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.1"></a>
 
-			<a href="<?php echo $template_url; ?>/img/process/5.JPG?v=1.1" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/process/sm/5.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php echo $template_url; ?>/img/process/sm/5.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/5.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.1"></a>
 
-			<a href="<?php echo $template_url; ?>/img/process/6.JPG?v=1.1" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/process/sm/6.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php echo $template_url; ?>/img/process/sm/6.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/6.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.1"></a>
 
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 

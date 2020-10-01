@@ -66,7 +66,7 @@ $template_url = get_template_directory_uri();
 		<div class="container">
 
 			<div class="main-head">
-				<a href="#home" class="logo"><img src="<?php echo $template_url; ?>/img/logo.png" alt="logo" class="img-responsive"></a>
+				<a href="#home" class="logo"><img src="<?php echo $template_url; ?>/img/logo.svg" alt="logo" class="img-responsive"></a>
 
 				<ul class="menu">
 					<li><a href="#home">О проекте</a></li>

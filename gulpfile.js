@@ -33,7 +33,7 @@ gulp.task('styles', function() {
 	.pipe(autoprefixer(['last 15 versions']))
 	.pipe(cleancss( {level: { 1: { specialComments: 0 } } })) // Opt., comment out when debugging
 	// .pipe(gulp.dest('app/css'))
-	.pipe(gulp.dest('wp-content/themes/kpd-stroi/css'))
+	.pipe(gulp.dest('wp-content/themes/ecopark/css'))
 	.pipe(browserSync.stream())
 });
 
@@ -46,7 +46,7 @@ gulp.task('scripts', function() {
 		'app/libs/fancybox/jquery.fancybox.min.js',
 		'app/js/common.js', // Always at the end
 		])
-	.pipe(concat('scripts.min.js'))
+	.pipe(concat('../../wp-content/themes/ecopark/js/scripts.min.js'))
 	// .pipe(uglify()) // Mifify js (opt.)
 	.pipe(gulp.dest('app/js'))
 	.pipe(browserSync.reload({ stream: true }))
