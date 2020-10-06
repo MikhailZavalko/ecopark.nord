@@ -64,8 +64,8 @@ $template_url = get_template_directory_uri();
 			</span>
 			<p>Или оставьте заявку и наш менеджер свяжется с вами для бронирования</p>
 			<!-- Hidden Required Fields -->
-			<input type="hidden" name="project_name" value="Поселок «Семейный»">
-			<input type="hidden" name="form_subject" value="Поселок «Семейный» | заявка на бронирование">
+			<input type="hidden" name="project_name" value="Поселок «Экопарк Северный»">
+			<input type="hidden" name="form_subject" value="Поселок «Экопарк Северный» | заявка на бронирование">
 			<!-- END Hidden Required Fields -->
 			<div class="inputs">
 				<input class="input" type="text" name="Имя" placeholder="Ваше имя" required>
@@ -93,8 +93,8 @@ $template_url = get_template_directory_uri();
 			</span>
 			<p>Или оставьте заявку и наш менеджер свяжется с вами</p>
 			<!-- Hidden Required Fields -->
-			<input type="hidden" name="project_name" value="Поселок «Семейный»">
-			<input type="hidden" name="form_subject" value="Поселок «Семейный» | заявка на консультацию">
+			<input type="hidden" name="project_name" value="Поселок «Экопарк Северный»">
+			<input type="hidden" name="form_subject" value="Поселок «Экопарк Северный» | заявка на консультацию">
 			<!-- END Hidden Required Fields -->
 			<div class="inputs">
 				<input class="input" type="text" name="Имя" placeholder="Ваше имя" required>

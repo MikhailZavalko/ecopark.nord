@@ -13,6 +13,7 @@ get_header(); ?>
 		<div class="slide" style="background: url('<?php echo $template_url; ?>/img/slides/1.jpg') center no-repeat; background-size: cover;"></div>
 		<div class="slide" style="background: url('<?php echo $template_url; ?>/img/slides/2.jpg') center no-repeat; background-size: cover;"></div>
 		<div class="slide" style="background: url('<?php echo $template_url; ?>/img/slides/3.jpg') center no-repeat; background-size: cover;"></div>
+		<div class="slide" style="background: url('<?php echo $template_url; ?>/img/slides/4.jpg') center no-repeat; background-size: cover;"></div>
 	</div>
 
 	<div class="top-content">
@@ -29,7 +30,7 @@ get_header(); ?>
 						<img src="<?php echo $template_url; ?>/img/top-icon-1.svg" class="img-responsive" alt="icon">
 					</div>
 					<div class="text">
-						<p>4 километра до <br>Карла Маркса</p>
+						<p>2 километра до <br>ост. Полярная</p>
 					</div>
 				</div>
 
@@ -38,25 +39,16 @@ get_header(); ?>
 						<img src="<?php echo $template_url; ?>/img/top-icon-2.svg" class="img-responsive" alt="icon">
 					</div>
 					<div class="text">
-						<p>Центральные <br>коммуникации</p>
+						<p>Все <br>коммуникации</p>
 					</div>
 				</div>
 
 				<div class="icon-text">
 					<div class="icon">
-						<img src="<?php echo $template_url; ?>/img/top-icon-3.svg" class="img-responsive" alt="icon">
+						<img src="<?php echo $template_url; ?>/img/top-icon-5.svg" class="img-responsive" alt="icon">
 					</div>
 					<div class="text">
-						<p>Закрытая <br>территория</p>
-					</div>
-				</div>
-
-				<div class="icon-text">
-					<div class="icon">
-						<img src="<?php echo $template_url; ?>/img/top-icon-4.svg" class="img-responsive" alt="icon">
-					</div>
-					<div class="text">
-						<p>Развитая <br>инфраструктура</p>
+						<p>71 <br>участок</p>
 					</div>
 				</div>
 
@@ -156,7 +148,7 @@ get_header(); ?>
 	<div class="container">
 		<h3 class="type-head">Генплан коттеджного поселка "Экопарк Северный"</h3>
 		<?php// echo do_shortcode('[map]'); ?>
-		<img class="img-responsive" src="<?php echo $template_url; ?>/img/general-plan.png" alt="general plan" >
+		<img class="img-responsive" src="<?php echo $template_url; ?>/img/general-plan.png" alt="general plan">
 		<div class="button-container">
 			<a href="#take-booking" class="top-button ripplelink open-form-button"><span>Забронировать участок</span></a>
 		</div>
@@ -209,7 +201,7 @@ get_header(); ?>
 							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
 							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
 							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; Ребристые ж/б плиты перекрытия с утеплением на кровле</li>
-							<li>Кровля -  четырехскатная, устройство рулонной кровли</li>
+							<li>Кровля - четырехскатная, устройство рулонной кровли</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
 							<li>Разводка стояков водоснабжения и канализации по дому</li>
 							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
@@ -239,9 +231,9 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Одноэтажный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/scheme.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/sm.jpg) center; background-size: cover;" data-fancybox="house-2_4th_roof"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/sm.jpg) center; background-size: cover;" data-fancybox="house-2_4th_roof"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/scheme.jpg" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/scheme.jpg"></a>
 						</div>
 					</div>
 
@@ -253,7 +245,7 @@ get_header(); ?>
 							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
 							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
 							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; Ребристые ж/б плиты перекрытия с утеплением на кровле</li>
-							<li>Кровля -  четырехскатная, устройство рулонной кровли</li>
+							<li>Кровля - четырехскатная, устройство рулонной кровли</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
 							<li>Разводка стояков водоснабжения и канализации по дому</li>
 							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
@@ -313,7 +305,7 @@ get_header(); ?>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
 							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
 							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
-							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; деревянное межэтажное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
 							<li>Кровля - односкатная под уклоном, устройство рулонной кровли</li>
 							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
@@ -361,7 +353,7 @@ get_header(); ?>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
 							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
 							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
-							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; деревянное межэтажное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
 							<li>Кровля - односкатная под уклоном, устройство рулонной кровли</li>
 							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
@@ -463,7 +455,7 @@ get_header(); ?>
 							<li>Окна ПВХ, входная утепленная дверь</li>
 							<li>Разводка стояков водоснабжения и канализации по дому</li>
 							<li>Вентиляция</li>
-							<li>Крыльцо,  балконы с ограждением - ковка</li>
+							<li>Крыльцо, балконы с ограждением - ковка</li>
 							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
@@ -511,7 +503,7 @@ get_header(); ?>
 							<li>Окна ПВХ, входная утепленная дверь</li>
 							<li>Разводка стояков водоснабжения и канализации по дому</li>
 							<li>Вентиляция</li>
-							<li>Крыльцо,  балконы с ограждением - ковка</li>
+							<li>Крыльцо, балконы с ограждением - ковка</li>
 							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
@@ -560,7 +552,7 @@ get_header(); ?>
 							<li>Окна ПВХ, входная утепленная дверь</li>
 							<li>Разводка стояков водоснабжения и канализации по дому</li>
 							<li>Вентиляция</li>
-							<li>Крыльцо,  балконы с ограждением - ковка</li>
+							<li>Крыльцо, балконы с ограждением - ковка</li>
 							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
