@@ -69,11 +69,10 @@ get_header(); ?>
 				<h2>О проекте</h2>
 				<div class="image"></div>
 				<ul>
-					<li>Коттеджный поселок “Семейный” расположен в селе Тополево в 15 минутах езды на автомобиле от центра Хабаровска</li>
-					<li>Село Тополево является экологически чистым районом пригорода Хабаровска</li>
-					<li>В распоряжении жителей коттеджного поселка развитая инфраструктура для жизни - детские сады, школа, поликлиника</li>
-					<li>Всего в одной остановке от коттеджного поселка расположен крупный гипермаркет, ТЦ "Стрелка" и магазины низких цен "Амбар", "Светофор"</li>
-					<li>Жители коттеджного поселка получают все виды льгот, предусмотренные для проживающих в сельской местности: по коммунальным платежам, при регистрации автомобиля, по налогообложению и другие</li>
+					<li>Коттеджный поселок "Экопарк Северный" расположен в 2 км. за остановкой Полярная, на дороге ведущей в Виноградовку среди грушевых садов</li>
+					<li>Северный - самый экологический район, это знают все жители Хабаровска</li>
+					<li>Район активно развивается и застраивается коттеджами</li>
+					<li>Всего в 2 км. от поселка начинается городская инфраструктура: школа, детские сады, гипермаркеты, торговые центры.</li>
 				</ul>
 			</div>
 			<a href="<?php echo $template_url; ?>/img/about-img.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/about-img_sm.jpg) center; background-size: cover;"></a>
@@ -97,13 +96,13 @@ get_header(); ?>
 				</div>
 			</div>
 
-			<div class="about-item">
-				<div class="icon"><img class="img-responsive" src="<?php echo $template_url; ?>/img/about-icon-8.svg" alt="icon"></div>
+			<!-- <div class="about-item">
+				<div class="icon"><img class="img-responsive" src="<?php// echo $template_url; ?>/img/about-icon-8.svg" alt="icon"></div>
 				<div class="text">
 					<h4>Безопасность</h4>
 					<p>Огороженная территория</p>
 				</div>
-			</div>
+			</div> -->
 
 			<div class="about-item">
 				<div class="icon"><img class="img-responsive" src="<?php echo $template_url; ?>/img/about-icon-7.svg" alt="icon"></div>
