@@ -146,8 +146,8 @@ get_header(); ?>
 <div class="map-general-section" id="general-plan">
 	<div class="container">
 		<h3 class="type-head">Генплан коттеджного поселка "Экопарк Северный"</h3>
-		<?php// echo do_shortcode('[map]'); ?>
-		<img class="img-responsive" src="<?php echo $template_url; ?>/img/general-plan.png" alt="general plan">
+		<?php echo do_shortcode('[map]'); ?>
+		<!-- <img class="img-responsive" src="<?php// echo $template_url; ?>/img/general-plan.png" alt="general plan"> -->
 		<div class="button-container">
 			<a href="#take-booking" class="top-button ripplelink open-form-button"><span>Забронировать участок</span></a>
 		</div>
@@ -636,16 +636,9 @@ get_header(); ?>
 		<div class="video-blocks">
 
 			<div class="video-block">
-				<h4>Этапы строительства дома Народный</h4>
+				<h4>Этапы строительства дома</h4>
 				<div class="video">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/6GSTyOiCGRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
-			</div>
-
-			<div class="video-block">
-				<h4>Этапы строительства дома Классика</h4>
-				<div class="video">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/xCbEcFG1MH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/LLzPBfVWISA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			</div>
 
