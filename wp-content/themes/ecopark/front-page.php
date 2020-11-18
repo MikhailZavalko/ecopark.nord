@@ -364,10 +364,10 @@ get_header(); ?>
 			</div>
 
 			<div class="tab-btns">
-				<button class="tab-btn active" data-tab="small">6х6</button>
-				<button class="tab-btn" data-tab="medium">9х6</button>
-				<button class="tab-btn" data-tab="big">8х9</button>
-				<button class="tab-btn" data-tab="large">9х12</button>
+				<button class="tab-btn active" data-tab="small">82м<sup><small>2</small></sup></button>
+				<button class="tab-btn" data-tab="medium">98м<sup><small>2</small></sup></button>
+				<button class="tab-btn" data-tab="big">122м<sup><small>2</small></sup></button>
+				<button class="tab-btn" data-tab="large">150м<sup><small>2</small></sup></button>
 			</div>
 
 		</div>
@@ -488,8 +488,8 @@ get_header(); ?>
 			</div>
 
 			<div class="tab-btns">
-				<button class="tab-btn active" data-tab="small">6х6</button>
-				<button class="tab-btn" data-tab="medium">9х6</button>
+				<button class="tab-btn active" data-tab="small">90м<sup><small>2</small></sup></button>
+				<button class="tab-btn" data-tab="medium">120м<sup><small>2</small></sup></button>
 			</div>
 
 		</div>
@@ -525,7 +525,7 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом "Классика"</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/classic_1/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_1/sm.jpg?v=1.1) center; background-size: cover;" data-fancybox="house-classic_1"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/classic_1/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_1/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-classic_1"></a>
 						<div class="d-none">
 							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_1/2.jpg" data-fancybox="house-classic_1" data-thumb="<?php echo $template_url; ?>/img/houses/classic_1/2.jpg"></a>
 							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_1/3.jpg" data-fancybox="house-classic_1" data-thumb="<?php echo $template_url; ?>/img/houses/classic_1/3.jpg"></a>
@@ -564,7 +564,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 4.55 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 4.77 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -573,10 +573,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом "Классика"</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/classic_2/1.jpg?v=1.1" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_2/sm.jpg?v=1.1) center; background-size: cover;" data-fancybox="house-classic_2"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/classic_2/1.jpg?v=1.3" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_2/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-classic_2"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/2.jpg?v=1.1" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/2.jpg?v=1.1"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/scheme.jpg?v=1.1" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/scheme.jpg?v=1.1"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/2.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/2.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/3.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/3.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/4.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/4.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/5.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/5.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/scheme.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/scheme.jpg?v=1.3"></a>
 						</div>
 					</div>
 
@@ -609,7 +612,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.24 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.46 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -618,7 +621,7 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом "Классика"</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/classic_3/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_3/sm.jpg?v=1.1) center; background-size: cover;" data-fancybox="house-classic_3"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/classic_3/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_3/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-classic_3"></a>
 						<div class="d-none">
 							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/2.jpg" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/2.jpg"></a>
 							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/3.jpg" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/3.jpg"></a>
@@ -658,7 +661,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.93 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.15 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -667,12 +670,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом "Классика"</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/classic_4/1.jpg?v=1.1" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_4/sm.jpg?v=1.1) center; background-size: cover;" data-fancybox="house-classic_4"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/classic_4/1.jpg?v=1.3" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_4/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-classic_4"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/2.jpg?v=1.1" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/2.jpg?v=1.1"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/3.jpg?v=1.1" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/3.jpg?v=1.1"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/4.jpg?v=1.1" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/4.jpg?v=1.1"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/scheme.jpg" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/scheme.jpg?v=1.1"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/2.jpg?v=1.3" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/2.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/3.jpg?v=1.3" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/3.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/4.jpg?v=1.3" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/4.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/5.jpg?v=1.3" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/5.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/scheme.jpg" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/scheme.jpg?v=1.3"></a>
 						</div>
 					</div>
 
@@ -705,7 +709,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 7.20 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 7.43 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -713,10 +717,10 @@ get_header(); ?>
 			</div>
 
 			<div class="tab-btns">
-				<button class="tab-btn active" data-tab="small">6х6</button>
-				<button class="tab-btn" data-tab="medium">9х6</button>
-				<button class="tab-btn" data-tab="big">8х9</button>
-				<button class="tab-btn" data-tab="large">9х12</button>
+				<button class="tab-btn active" data-tab="small">90м<sup><small>2</small></sup></button>
+				<button class="tab-btn" data-tab="medium">120м<sup><small>2</small></sup></button>
+				<button class="tab-btn" data-tab="big">150м<sup><small>2</small></sup></button>
+				<button class="tab-btn" data-tab="large">200м<sup><small>2</small></sup></button>
 			</div>
 
 		</div>
