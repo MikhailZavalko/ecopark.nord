@@ -183,12 +183,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Одноэтажный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/sm.jpg) center; background-size: cover;" data-fancybox="house-1_4th_roof"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/1.jpg?v=1.5" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/sm.jpg?v=1.5) center; background-size: cover;" data-fancybox="house-1_4th_roof"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/2.jpg" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/2.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/3.jpg" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/3.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/4.jpg" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/4.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/scheme.jpg" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/scheme.jpg"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/2.jpg?v=1.5" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/2.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/3.jpg?v=1.5" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/3.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/4.jpg?v=1.5" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/4.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/5.jpg?v=1.5" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/5.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/scheme.jpg?v=1.5" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/scheme.jpg?v=1.5"></a>
 						</div>
 					</div>
 
@@ -197,28 +198,29 @@ get_header(); ?>
 						<h4>Наполнение дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
 							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; Ребристые ж/б плиты перекрытия с утеплением на кровле</li>
-							<li>Кровля - четырехскатная, устройство рулонной кровли</li>
+							<li>Кровля: стропильная система, четырехскатная холодная кровля с водосточной системой и подшивкой софитами</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
 							<li>Крыльцо - ковка</li>
-							<li>Вентиляция</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
+							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
 						<h2>Стоимость: 4.82 <small>млн. ₽</small></h2>
 					</div>
@@ -244,28 +246,29 @@ get_header(); ?>
 						<h4>Наполнение дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
 							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; Ребристые ж/б плиты перекрытия с утеплением на кровле</li>
-							<li>Кровля - четырехскатная, устройство рулонной кровли</li>
+							<li>Кровля: стропильная система, четырехскатная холодная кровля с водосточной системой и подшивкой софитами</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
 							<li>Крыльцо - ковка</li>
-							<li>Вентиляция</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
+							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
 						<h2>Стоимость: 5.28 <small>млн. ₽</small></h2>
 					</div>
@@ -276,9 +279,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Одноэтажный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/sm.jpg) center; background-size: cover;" data-fancybox="house-3_4th_roof"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/1.jpg?v=1.5" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/sm.jpg?v=1.5) center; background-size: cover;" data-fancybox="house-3_4th_roof"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/scheme.jpg" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/scheme.jpg"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/2.jpg?v=1.5" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/2.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/3.jpg?v=1.5" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/3.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/4.jpg?v=1.5" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/4.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/5.jpg?v=1.5" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/5.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/scheme.jpg?v=1.5" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/scheme.jpg?v=1.5"></a>
 						</div>
 					</div>
 
@@ -287,28 +294,29 @@ get_header(); ?>
 						<h4>Наполнение дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
 							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; Ребристые ж/б плиты перекрытия с утеплением на кровле</li>
-							<li>Кровля - четырехскатная, устройство рулонной кровли</li>
+							<li>Кровля: стропильная система, четырехскатная холодная кровля с водосточной системой и подшивкой софитами</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
 							<li>Крыльцо - ковка</li>
-							<li>Вентиляция</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
+							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
 						<h2>Стоимость: 5.60 <small>млн. ₽</small></h2>
 					</div>
@@ -333,28 +341,29 @@ get_header(); ?>
 						<h4>Наполнение дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
 							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; Ребристые ж/б плиты перекрытия с утеплением на кровле</li>
-							<li>Кровля - четырехскатная, устройство рулонной кровли</li>
+							<li>Кровля: стропильная система, четырехскатная холодная кровля с водосточной системой и подшивкой софитами</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
 							<li>Крыльцо - ковка</li>
-							<li>Вентиляция</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
+							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
 						<h2>Стоимость: 6.34 <small>млн. ₽</small></h2>
 					</div>
@@ -396,27 +405,27 @@ get_header(); ?>
 						<h4>Наполнение Народного дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
-							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
-							<li>Кровля - односкатная под уклоном, устройство рулонной кровли</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное ребристое бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Кровля: односкатная под уклоном, устройство рулонной кровли</li>
 							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Внутренняя отделка: чистовая отделка, шпатлевка внешних стен</li>
-							<li>Вентиляция</li>
-							<li>Крыльцо, балконы с ограждением - ковка</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
+							<li>Крыльцо, балконы с ограждением – ковка</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
@@ -425,13 +434,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/people_1/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/people_1/sm.jpg) center; background-size: cover;" data-fancybox="house-people_1"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/people_1/1.jpg?v=1.5" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/people_1/sm.jpg?v=1.5) center; background-size: cover;" data-fancybox="house-people_1"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/2.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/2.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/3.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/3.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/4.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/4.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/5.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/5.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/scheme.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/scheme.jpg"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/2.jpg?v=1.5" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/2.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/3.jpg?v=1.5" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/3.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/4.jpg?v=1.5" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/4.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/5.jpg?v=1.5" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/5.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/scheme.jpg?v=1.5" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/scheme.jpg?v=1.5"></a>
 						</div>
 					</div>
 
@@ -444,27 +453,27 @@ get_header(); ?>
 						<h4>Наполнение Народного дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
-							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
-							<li>Кровля - односкатная под уклоном, устройство рулонной кровли</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное ребристое бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Кровля: односкатная под уклоном, устройство рулонной кровли</li>
 							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Внутренняя отделка: чистовая отделка, шпатлевка внешних стен</li>
-							<li>Вентиляция</li>
-							<li>Крыльцо, балконы с ограждением - ковка</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
+							<li>Крыльцо, балконы с ограждением – ковка</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
@@ -473,13 +482,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/people_2/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/people_2/sm.jpg) center; background-size: cover;" data-fancybox="house-people_2"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/people_2/1.jpg?v=1.5" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/people_2/sm.jpg?v=1.5) center; background-size: cover;" data-fancybox="house-people_2"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/2.jpg" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/2.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/3.jpg" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/3.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/4.jpg" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/4.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/5.jpg" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/5.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/scheme.jpg" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/scheme.jpg"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/2.jpg?v=1.5" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/2.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/3.jpg?v=1.5" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/3.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/4.jpg?v=1.5" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/4.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/5.jpg?v=1.5" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/5.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/scheme.jpg?v=1.5" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/scheme.jp?v=1.5g"></a>
 						</div>
 					</div>
 
@@ -525,7 +534,7 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом "Классика"</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/classic_1/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_1/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-classic_1"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/classic_1/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_1/sm.jpg?v=1.5) center; background-size: cover;" data-fancybox="house-classic_1"></a>
 						<div class="d-none">
 							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_1/2.jpg" data-fancybox="house-classic_1" data-thumb="<?php echo $template_url; ?>/img/houses/classic_1/2.jpg"></a>
 							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_1/3.jpg" data-fancybox="house-classic_1" data-thumb="<?php echo $template_url; ?>/img/houses/classic_1/3.jpg"></a>
@@ -540,27 +549,27 @@ get_header(); ?>
 						<h4>Наполнение Народного дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
-							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное ребристое бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
 							<li>Кровля - стропильная система, четырехскатная холодная кровля с водосточной системой и подшивкой софитами</li>
 							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Вентиляция</li>
-							<li>Крыльцо, балконы с ограждением - ковка</li>
-							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
+							<li>Крыльцо, балконы с ограждением – ковка</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
@@ -573,13 +582,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом "Классика"</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/classic_2/1.jpg?v=1.3" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_2/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-classic_2"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/classic_2/1.jpg?v=1.5" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_2/sm.jpg?v=1.5) center; background-size: cover;" data-fancybox="house-classic_2"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/2.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/2.jpg?v=1.3"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/3.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/3.jpg?v=1.3"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/4.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/4.jpg?v=1.3"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/5.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/5.jpg?v=1.3"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/scheme.jpg?v=1.3" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/scheme.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/2.jpg?v=1.5" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/2.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/3.jpg?v=1.5" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/3.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/4.jpg?v=1.5" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/4.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/5.jpg?v=1.5" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/5.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_2/scheme.jpg?v=1.5" data-fancybox="house-classic_2" data-thumb="<?php echo $template_url; ?>/img/houses/classic_2/scheme.jpg?v=1.5"></a>
 						</div>
 					</div>
 
@@ -588,27 +597,27 @@ get_header(); ?>
 						<h4>Наполнение Народного дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
-							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное ребристое бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
 							<li>Кровля - стропильная система, четырехскатная холодная кровля с водосточной системой и подшивкой софитами</li>
 							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Вентиляция</li>
-							<li>Крыльцо, балконы с ограждением - ковка</li>
-							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
+							<li>Крыльцо, балконы с ограждением – ковка</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
@@ -621,14 +630,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом "Классика"</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/classic_3/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_3/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-classic_3"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/classic_3/1.jpg?v=1.5" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_3/sm.jpg?v=1.5) center; background-size: cover;" data-fancybox="house-classic_3"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/2.jpg" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/2.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/3.jpg" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/3.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/4.jpg" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/4.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/5.jpg" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/5.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/6.jpg" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/6.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/scheme.jpg" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/scheme.jpg"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/2.jpg?v=1.5" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/2.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/3.jpg?v=1.5" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/3.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/4.jpg?v=1.5" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/4.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/5.jpg?v=1.5" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/5.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_3/scheme.jpg?v=1.5" data-fancybox="house-classic_3" data-thumb="<?php echo $template_url; ?>/img/houses/classic_3/scheme.jpg?v=1.5"></a>
 						</div>
 					</div>
 
@@ -637,27 +645,27 @@ get_header(); ?>
 						<h4>Наполнение Народного дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
-							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное ребристое бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
 							<li>Кровля - стропильная система, четырехскатная холодная кровля с водосточной системой и подшивкой софитами</li>
 							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Вентиляция</li>
-							<li>Крыльцо, балконы с ограждением - ковка</li>
-							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
+							<li>Крыльцо, балконы с ограждением – ковка</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
@@ -670,13 +678,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом "Классика"</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/classic_4/1.jpg?v=1.3" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_4/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-classic_4"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/classic_4/1.jpg?v=1.5" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/classic_4/sm.jpg?v=1.5) center; background-size: cover;" data-fancybox="house-classic_4"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/2.jpg?v=1.3" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/2.jpg?v=1.3"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/3.jpg?v=1.3" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/3.jpg?v=1.3"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/4.jpg?v=1.3" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/4.jpg?v=1.3"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/5.jpg?v=1.3" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/5.jpg?v=1.3"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/scheme.jpg" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/scheme.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/2.jpg?v=1.5" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/2.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/3.jpg?v=1.5" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/3.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/4.jpg?v=1.5" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/4.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/5.jpg?v=1.5" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/5.jpg?v=1.5"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/classic_4/scheme.jpg" data-fancybox="house-classic_4" data-thumb="<?php echo $template_url; ?>/img/houses/classic_4/scheme.jpg?v=1.5"></a>
 						</div>
 					</div>
 
@@ -685,27 +693,27 @@ get_header(); ?>
 						<h4>Наполнение Народного дома:</h4>
 						<ul>
 							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
-							<li>Фасад - под каменные блоки, окрас в цвет - на выбор клиента</li>
-							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 6см + утеплитель 15см + бетон 8 см</li>
-							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное ребристое бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
 							<li>Кровля - стропильная система, четырехскатная холодная кровля с водосточной системой и подшивкой софитами</li>
 							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
 							<li>Окна ПВХ, входная утепленная дверь</li>
-							<li>Разводка стояков водоснабжения и канализации по дому</li>
-							<li>Вентиляция</li>
-							<li>Крыльцо, балконы с ограждением - ковка</li>
-							<li>Внутренняя отделка: <span>чистовая отделка</span>, шпатлевка внешних стен</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
+							<li>Крыльцо, балконы с ограждением – ковка</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
 						<ul>
-							<li>Центральная вода</li>
-							<li>Шамбо - 10 м<sup><small>3</small></sup></li>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
 							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
 						</ul>
 						<h4>Благоустройство:</h4>
 						<ul>
-							<li>Земельный участок в собственности <br>от 10 соток</li>
-							<li>Закрытая огороженная территория <br>(общий забор)</li>
+							<li>Земельный участок в собственности 8 соток</li>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
