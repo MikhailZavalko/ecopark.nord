@@ -222,7 +222,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
-						<h2>Стоимость: 5.35 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.62 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -270,7 +270,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
-						<h2>Стоимость: 5.935 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.23 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -318,7 +318,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
-						<h2>Стоимость: 6.47 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.80 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -365,7 +365,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
-						<h2>Стоимость: 7.12 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 7.45 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -429,7 +429,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 4.675 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 4.90 <small>млн. ₽</small></h2>
 					</div>
 
 					<div class="name-image">
@@ -477,7 +477,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.355 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.62 <small>млн. ₽</small></h2>
 					</div>
 
 					<div class="name-image">
@@ -494,11 +494,118 @@ get_header(); ?>
 
 				</div>
 
+
+
+
+				<div class="tab-content" data-tab="big">
+
+					<div class="text">
+						<h2>Каменный надежный дом 147 м<sup><small>2</small></sup></h2>
+						<h4>Наполнение Мансардного дома:</h4>
+						<ul>
+							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное ребристое бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Кровля - мансардная утепленная с водосточной системой и подшивкой софитами</li>
+							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
+							<li>Окна ПВХ, входная утепленная дверь</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
+							<li>Крыльцо, балконы с ограждением – ковка</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
+						</ul>
+						<h4>Инженерные Сети:</h4>
+						<ul>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
+							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
+						</ul>
+						<h4>Благоустройство:</h4>
+						<ul>
+							<li>Земельный участок в собственности 8 соток</li>
+							<li>Дорога внутриквартальная</li>
+							<li>Освещение поселка</li>
+						</ul>
+						<h2>Стоимость: 6.45 <small>млн. ₽</small></h2>
+					</div>
+
+					<div class="name-image">
+						<h3>Мансардный дом</h3>
+						<a href="<?php echo $template_url; ?>/img/houses/attic_3/1.jpg?v=1.7" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/attic_3/sm/1.jpg?v=1.7) center; background-size: cover;" data-fancybox="house-attic_3"></a>
+						<div class="d-none">
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/attic_3/2.jpg?v=1.7" data-fancybox="house-attic_3" data-thumb="<?php echo $template_url; ?>/img/houses/attic_3/2.jpg?v=1.7"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/attic_3/3.jpg?v=1.7" data-fancybox="house-attic_3" data-thumb="<?php echo $template_url; ?>/img/houses/attic_3/3.jpg?v=1.7"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/attic_3/4.jpg?v=1.7" data-fancybox="house-attic_3" data-thumb="<?php echo $template_url; ?>/img/houses/attic_3/4.jpg?v=1.7"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/attic_3/scheme.jpg?v=1.7" data-fancybox="house-attic_3" data-thumb="<?php echo $template_url; ?>/img/houses/attic_3/scheme.jpg?v=1.7"></a>
+						</div>
+					</div>
+
+				</div>
+
+
+
+				<div class="tab-content" data-tab="large">
+
+					<div class="text">
+						<h2>Каменный надежный дом 187 м<sup><small>2</small></sup></h2>
+						<h4>Наполнение Мансардного дома:</h4>
+						<ul>
+							<li>Фундамент буронабивной от 3 до 4м глубиной</li>
+							<li>Фасад - окраска фасадной краской + декоративные элементы фахверк</li>
+							<li>Трехслойные стеновые панели с утеплением: внешний фасад - бетон 5 см + утеплитель 15см + бетон 6 см</li>
+							<li>Перекрытия: ребристые ж/б плиты с утеплением на 1 этаже + бетон; межэтажное ребристое бетонное перекрытие, ребристые ж/б плиты перекрытия с утеплением на кровле</li>
+							<li>Кровля - мансардная утепленная с водосточной системой и подшивкой софитами</li>
+							<li>Лестница межэтажная деревянная с состариванием и шлифованием</li>
+							<li>Окна ПВХ, входная утепленная дверь</li>
+							<li>Стояки хол. воды и канализации, подключение к сетям</li>
+							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
+							<li>Крыльцо, балконы с ограждением – ковка</li>
+							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
+						</ul>
+						<h4>Инженерные Сети:</h4>
+						<ul>
+							<li>Скважина глубиной 40м + насос, обвязка</li>
+							<li>Септик 1,5 куб/сутки - либо шамбо 10 кубов</li>
+							<li>Отопление - электрические радиаторы</li>
+							<li>Электроэнергия - 15 кВт, ввод в дом, установка счетчика день/ночь</li>
+						</ul>
+						<h4>Благоустройство:</h4>
+						<ul>
+							<li>Земельный участок в собственности 8 соток</li>
+							<li>Дорога внутриквартальная</li>
+							<li>Освещение поселка</li>
+						</ul>
+						<h2>Стоимость: 7.68 <small>млн. ₽</small></h2>
+					</div>
+
+					<div class="name-image">
+						<h3>Мансардный дом</h3>
+						<a href="<?php echo $template_url; ?>/img/houses/attic_4/1.jpg?v=1.7" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/attic_4/sm/1.jpg?v=1.7) center; background-size: cover;" data-fancybox="house-attic_4"></a>
+						<div class="d-none">
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/attic_4/2.jpg?v=1.7" data-fancybox="house-attic_4" data-thumb="<?php echo $template_url; ?>/img/houses/attic_4/2.jpg?v=1.7"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/attic_4/3.jpg?v=1.7" data-fancybox="house-attic_4" data-thumb="<?php echo $template_url; ?>/img/houses/attic_4/3.jpg?v=1.7"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/attic_4/4.jpg?v=1.7" data-fancybox="house-attic_4" data-thumb="<?php echo $template_url; ?>/img/houses/attic_4/4.jpg?v=1.7"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/attic_4/5.jpg?v=1.7" data-fancybox="house-attic_4" data-thumb="<?php echo $template_url; ?>/img/houses/attic_4/5.jpg?v=1.7"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/attic_4/scheme.jpg?v=1.7" data-fancybox="house-attic_4" data-thumb="<?php echo $template_url; ?>/img/houses/attic_4/scheme.jpg?v=1.7"></a>
+						</div>
+					</div>
+
+				</div>
+
+
+
+
+
+
 			</div>
 
 			<div class="tab-btns">
 				<button class="tab-btn active" data-tab="small">90м<sup><small>2</small></sup></button>
 				<button class="tab-btn" data-tab="medium">120м<sup><small>2</small></sup></button>
+				<button class="tab-btn" data-tab="big">147м<sup><small>2</small></sup></button>
+				<button class="tab-btn" data-tab="large">187м<sup><small>2</small></sup></button>
 			</div>
 
 		</div>
@@ -573,7 +680,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.04 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.29 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -621,7 +728,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.88 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.17 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -669,7 +776,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 6.72 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 7.05 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -717,7 +824,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 8.035 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 8.44 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -781,7 +888,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Закрытая огороженная территория (общий забор)</li>
 						</ul>
-						<h2>Стоимость: 7.11 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.90 <small>млн. ₽</small></h2>
 					</div>
 
 					<div class="name-image">
