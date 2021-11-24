@@ -438,7 +438,7 @@ p
 		grid-template-columns: repeat(8, 1fr)
 		grid-column-gap: 20px
 		grid-row-gap: 50px
-		grid-template-areas: ". a a b b c c ." ". d d e e f f ."
+		grid-template-areas: ". a a b b c c ." "d d e e f f g g"
 		justify-content: center
 		.about-item
 			display: flex
@@ -573,7 +573,6 @@ p
 	.button-container
 		display: flex
 		justify-content: center
-	.button
 	h3
 		color: #fff
 	img
@@ -587,64 +586,187 @@ p
 
 
 
+// .houses-section
+// 	margin-bottom: 20px
+// 	padding-top: 75px
+// 	padding-bottom: 80px
+// 	border-bottom: 20px solid $accent
+// 	&.last
+// 		margin-bottom: 0
+// 	.tabs
+// 		position: relative
+// 		min-height: 840px
+// 		&.reverse
+// 			.tab-btns
+// 				left: auto
+// 				right: 74px
+// 			.tab-content
+// 				grid-template-columns: auto 600px
+// 		&.four-tab-buttons
+// 			.tab-btns
+// 				.tab-btn
+// 					width: 100px
+// 		.tab-btns
+// 			display: flex
+// 			justify-content: space-around
+// 			position: absolute
+// 			top: 425px
+// 			left: 74px
+// 			z-index: 5
+// 			width: 451px
+// 			.tab-btn
+// 				line-height: 1.3
+// 				font-size: 28px
+// 				font-weight: 600
+// 				background-color: rgba($accent, .3)
+// 				color: rgba($black, .3)
+// 				border: none
+// 				cursor: pointer
+// 				width: 134px
+// 				height: 60px
+// 				// display: flex
+// 				// justify-content: center
+// 				// align-items: center
+// 				border-radius: 7px
+// 				transition: $time
+// 				text-align: center
+// 				&:hover
+// 					background-color: $accent
+// 					color: $black
+// 				&.active
+// 					background-color: $accent
+// 					color: $black
+// 		.tab-contents
+// 			display: block
+// 			position: relative
+// 			z-index: 1
+// 			width: 100%
+// 			min-height: 100%
+// 			font-size: 22px
+// 			line-height: 1.2
+// 		.tab-content
+// 			position: absolute
+// 			top: 0
+// 			right: 0
+// 			bottom: 0
+// 			left: 0
+// 			opacity: 0
+// 			visibility: hidden
+// 			transition: $time
+// 			display: grid
+// 			grid-template-columns: 600px auto
+// 			justify-content: center
+// 			&.active
+// 				opacity: 1
+// 				visibility: visible
+// 			.image
+// 				width: 451px
+// 				height: 318px
+// 				margin: 0 auto
+// 				display: block
+// 				flex-shrink: 0
+// 				position: relative
+// 				&:hover
+// 					&::after
+// 						left: 54%
+// 						transform: scale(1.2) translate(-50%, -50%)
+// 						opacity: 1
+// 					&::before
+// 						transform: translate(-50%, -50%) scale(1.02)
+// 			.text
+// 				display: flex
+// 				flex-direction: column
+// 				align-items: center
+// 				h2
+// 					text-align: center
+// 					font-weight: 700
+// 					font-size: 40px
+// 					line-height: 1.2
+// 					margin: 0 0 20px 0
+// 					text-transform: inherit
+// 				h4
+// 					margin: 0 0 15px		
+// 				p
+// 					line-height: 1.2
+// 					margin: 42px 0 35px
+// 					font-size: 20px
+// 					text-align: center
+// 				ul
+// 					margin: 0 0 35px
+// 					width: 100%
+// 					display: grid
+// 					grid-template-columns: repeat(2, 1fr)
+// 					grid-column-gap: 20px
+// 					padding-left: 20px
+// 					li
+// 						font-size: 18px
+// 						text-align: left
+// 						margin-bottom: 3px
+// 						list-style-type: none
+// 						position: relative
+// 						&::before
+// 							content: ''
+// 							position: absolute
+// 							top: 11px
+// 							left: -12px
+// 							width: 6px
+// 							height: 6px
+// 							border-radius: 100%
+// 							background-color: $green
+// 						span
+// 							font-weight: 700
+// 	.button
+// 		line-height: 1.3
+// 		font-size: 30px
+// 		font-weight: 600
+// 		background-color: rgba(109,185,37,1)
+// 		color: $fontcolor
+// 		width: 600px
+// 		height: 60px
+// 		display: flex
+// 		justify-content: center
+// 		align-items: center
+// 		border-radius: 7px
+// 		transition: .25s ease
+// 		text-align: center
+// 		margin: 100px auto 0 auto
+// 		&:hover
+// 			background-color: rgba($accent, .3)
+
 .houses-section
 	margin-bottom: 20px
 	padding-top: 75px
 	padding-bottom: 80px
 	border-bottom: 20px solid $accent
+	.no-title
+		padding-top: 45px
+	h2
+		text-align: center
+	h4
+		font-size: 24px
+		margin: 10px 0
+		line-height: 1.2
+	p
+		font-size: 16px
+		line-height: 1.5
+		margin: 10px 0 20px 0
+		position: relative
 	&.last
 		margin-bottom: 0
+	.houses-grid
+		display: grid
+		grid-template-columns: repeat(2, 1fr)
+		grid-row-gap: 40px
+		grid-column-gap: 70px
 	.tabs
 		position: relative
-		min-height: 840px
-		&.reverse
-			.tab-btns
-				left: auto
-				right: 74px
-			.tab-content
-				grid-template-columns: auto 600px
-		&.four-tab-buttons
-			.tab-btns
-				.tab-btn
-					width: 100px
-		.tab-btns
-			display: flex
-			justify-content: space-around
-			position: absolute
-			top: 425px
-			left: 74px
-			z-index: 5
-			width: 451px
-			.tab-btn
-				line-height: 1.3
-				font-size: 28px
-				font-weight: 600
-				background-color: rgba($accent, .3)
-				color: rgba($black, .3)
-				border: none
-				cursor: pointer
-				width: 134px
-				height: 60px
-				// display: flex
-				// justify-content: center
-				// align-items: center
-				border-radius: 7px
-				transition: $time
-				text-align: center
-				&:hover
-					background-color: $accent
-					color: $black
-				&.active
-					background-color: $accent
-					color: $black
+		min-height: 430px
 		.tab-contents
 			display: block
 			position: relative
 			z-index: 1
 			width: 100%
 			min-height: 100%
-			font-size: 22px
-			line-height: 1.2
 		.tab-content
 			position: absolute
 			top: 0
@@ -654,19 +776,19 @@ p
 			opacity: 0
 			visibility: hidden
 			transition: $time
-			display: grid
-			grid-template-columns: 600px auto
 			justify-content: center
 			&.active
 				opacity: 1
 				visibility: visible
 			.image
-				width: 451px
-				height: 318px
+				width: 100%
+				height: 320px
 				margin: 0 auto
 				display: block
 				flex-shrink: 0
 				position: relative
+				background-position: center!important
+				background-size: cover!important
 				&:hover
 					&::after
 						left: 54%
@@ -674,48 +796,33 @@ p
 						opacity: 1
 					&::before
 						transform: translate(-50%, -50%) scale(1.02)
-			.text
-				display: flex
-				flex-direction: column
-				align-items: center
-				h2
-					text-align: center
-					font-weight: 700
-					font-size: 40px
-					line-height: 1.2
-					margin: 0 0 20px 0
-					text-transform: inherit
-				h4
-					margin: 0 0 15px		
-				p
-					line-height: 1.2
-					margin: 42px 0 35px
-					font-size: 20px
-					text-align: center
-				ul
-					margin: 0 0 35px
-					width: 100%
-					display: grid
-					grid-template-columns: repeat(2, 1fr)
-					grid-column-gap: 20px
-					padding-left: 20px
-					li
-						font-size: 18px
-						text-align: left
-						margin-bottom: 3px
-						list-style-type: none
-						position: relative
-						&::before
-							content: ''
-							position: absolute
-							top: 11px
-							left: -12px
-							width: 6px
-							height: 6px
-							border-radius: 100%
-							background-color: $green
-						span
-							font-weight: 700
+		.tab-btns
+			display: grid
+			grid-template-columns: repeat(4, 1fr)
+			grid-gap: 10px
+			position: absolute
+			top: 330px
+			left: 0
+			z-index: 5
+			width: 100%
+			.tab-btn
+				border: none
+				cursor: pointer
+				background-position: center!important
+				background-size: cover!important
+				border-radius: 10px
+				height: 93px
+				transition: $time
+				background-color: transparent
+				&.image
+					&::after
+						display: none
+	span
+		font-size: 18px
+		font-weight: 700
+		display: block
+		margin: 10px 0
+		
 	.button
 		line-height: 1.3
 		font-size: 30px
@@ -768,7 +875,7 @@ p
 			font-size: 24px
 		.video
 			display: flex
-			justify-content: center
+			justify-content: space-around
 			align-items: center
 			iframe
 				border: 10px solid $green
@@ -777,7 +884,7 @@ p
 		justify-content: center
 	.technology-image
 		display: block
-		margin: 50px 15px 0 15px
+		margin: 15px
 		border-radius: 10px
 		overflow: hidden
 		box-shadow: -3px 3px 10px rgba(0,0,0,.5)
@@ -1136,6 +1243,36 @@ footer
 				margin-top: 25px
 	&.visible
 		display: flex
+
+
+.houses-section-new
+	.houses-grid
+		display: grid
+		grid-template-columns: repeat(2, 1fr)
+	.tabs
+		position: relative
+		.tab_btns
+			position: absolute
+			top: 0
+			left: 0
+			z-index: 1
+		.tab_contents
+			position: relative
+		.tab_content
+			position: absolute
+			margin-top: 20px
+			top: 0
+			right: 0
+			bottom: 0
+			left: 0
+			opacity: 0
+			visibility: hidden
+			transition: $time
+			padding: 20px
+			&.active
+				opacity: 1
+				visibility: visible
+				position: relative
 
 
 @-webkit-keyframes loading-spin

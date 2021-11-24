@@ -72,7 +72,7 @@ get_header(); ?>
 					<li>Коттеджный поселок "Экопарк Северный" расположен в 2 км. за остановкой Полярная, на дороге ведущей в Виноградовку среди грушевых садов</li>
 					<li>Северный - самый экологический район, это знают все жители Хабаровска</li>
 					<li>Район активно развивается и застраивается коттеджами</li>
-					<li>Всего в 2 км. от поселка начинается городская инфраструктура: школа, детские сады, гипермаркеты, торговые центры.</li>
+					<li>Всего в 2 км. от поселка начинается городская инфраструктура: школа №58, средняя школа «Успех», детские сады №133, 14, 22, гипермаркеты, торговые центры.</li>
 				</ul>
 			</div>
 			<a href="<?php echo $template_url; ?>/img/about-img.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/about-img_sm.jpg) center; background-size: cover;"></a>
@@ -92,7 +92,7 @@ get_header(); ?>
 				<div class="icon"><img class="img-responsive" src="<?php echo $template_url; ?>/img/about-icon-2.svg" alt="icon"></div>
 				<div class="text">
 					<h4>Водопровод</h4>
-					<p>Индивидуальная скважина</p>
+					<p>Единая централизованная <br>скважина с системой очистки</p>
 				</div>
 			</div>
 
@@ -132,7 +132,15 @@ get_header(); ?>
 				<div class="icon"><img class="img-responsive" src="<?php echo $template_url; ?>/img/about-icon-4.svg" alt="icon"></div>
 				<div class="text">
 					<h4>Скорость</h4>
-					<p>Строительство каменного <br>дома за 2 месяца</p>
+					<p>Строительство каменного <br>дома за 4 месяца<sup><small>*</small></sup><br><small>* со дня производства домокомплекта</small></p>
+				</div>
+			</div>
+
+			<div class="about-item">
+				<div class="icon"><img class="img-responsive" src="<?php echo $template_url; ?>/img/about-icon-9.svg" alt="icon"></div>
+				<div class="text">
+					<h4>Строим круглый год</h4>
+					<p></p>
 				</div>
 			</div>
 
@@ -222,7 +230,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
-						<h2>Стоимость: 5.62 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.09 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -270,7 +278,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
-						<h2>Стоимость: 6.23 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.72 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -318,7 +326,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
-						<h2>Стоимость: 6.80 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 7.30 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -327,12 +335,12 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Одноэтажный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/1.jpg?v=1.1" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/sm.jpg?v=1.1) center; background-size: cover;" data-fancybox="house-4_4th_roof"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/1.jpg?v=1.2" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/sm.jpg?v=1.2) center; background-size: cover;" data-fancybox="house-4_4th_roof"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/2.jpg?v=1.1" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/2.jpg?v=1.1"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/3.jpg?v=1.1" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/3.jpg?v=1.1"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/4.jpg?v=1.1" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/4.jpg?v=1.1"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/scheme.jpg?v=1.1" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/scheme.jpg?v=1.1"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/2.jpg?v=1.2" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/2.jpg?v=1.2"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/3.jpg?v=1.2" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/3.jpg?v=1.2"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/4.jpg?v=1.2" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/4.jpg?v=1.2"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/scheme.jpg?v=1.2" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/scheme.jpg?v=1.2"></a>
 						</div>
 					</div>
 
@@ -365,7 +373,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Заезд на земельный участок (труба 6м диаметром 325мм)</li>
 						</ul>
-						<h2>Стоимость: 7.45 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 7.97 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -395,7 +403,7 @@ get_header(); ?>
 <section class="houses-section">
 	<div class="container">
 
-		<div class="tabs houses reverse">
+		<div class="tabs houses reverse four-tab-buttons">
 
 			<div class="tab-contents">
 
@@ -429,7 +437,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 4.90 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.35 <small>млн. ₽</small></h2>
 					</div>
 
 					<div class="name-image">
@@ -477,7 +485,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.62 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.09 <small>млн. ₽</small></h2>
 					</div>
 
 					<div class="name-image">
@@ -528,7 +536,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 6.45 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.94 <small>млн. ₽</small></h2>
 					</div>
 
 					<div class="name-image">
@@ -577,7 +585,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 7.68 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 8.20 <small>млн. ₽</small></h2>
 					</div>
 
 					<div class="name-image">
@@ -680,7 +688,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.29 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.75 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -728,7 +736,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 6.17 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.65 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -776,7 +784,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 7.05 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 7.56 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -824,7 +832,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 8.44 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 8.99 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -888,7 +896,7 @@ get_header(); ?>
 							<li>Освещение поселка</li>
 							<li>Закрытая огороженная территория (общий забор)</li>
 						</ul>
-						<h2>Стоимость: 6.90 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 7.98 <small>млн. ₽</small></h2>
 					</div>
 
 					<div class="name-image">
@@ -933,17 +941,17 @@ get_header(); ?>
 		<h2 class="type-head">Ход строительства</h2>
 		<div class="gallery">
 
-			<a href="<?php// echo $template_url; ?>/img/process/1.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/1.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.2"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/2.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/2.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.2"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/3.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/3.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.2"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/4.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/4.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.2"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/5.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/5.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.2"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/6.JPG?v=1.1" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.1) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.1"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/6.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.2"></a>
 
 		</div>
 	</div>
@@ -969,62 +977,119 @@ get_header(); ?>
 			<div class="video-block">
 				<h4>Этапы строительства дома</h4>
 				<div class="video">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/LLzPBfVWISA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<div class="video-item">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/LLzPBfVWISA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
+					<div class="video-item">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/SqhFdFxn66A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
 				</div>
 			</div>
-
+			
 		</div>
 
 		<div class="text">
-			<p><span><b>Мы сделали коттеджное строительство доступным!</b></span></p>
-			<p>Мы производим домокомплекты из трехслойных стеновых железобетонных панелей, колонн и ригелей.</p>
-			<p>Каркас нашего дома – железобетонные колонны и ригели.</p>
-			<p>Наша панель — как сэндвич, она состоит из нескольких слоев: облицовка- железобетон, высокоэффективный утеплитель и снова железобетон. Слои связаны между собой арматурой. Наружный слой изготавливаем с поверхностью под покраску, а внутреннюю поверхность делаем гладкой, под оклейку обоями.</p>
-			<p>Перекрытия в нашем доме – также из трехслойных панелей: ребристая плита, утеплитель, бетонная стяжка.</p>
-			<p><b>Одно из главных преимуществ нашей технологии — скорость и объем производимых домов.</b></p>
-			<p>Мощность завода домокомплектов «КПД 100» - порядка 7-10 домов в месяц.</p>
-			<p><span><b>Наша технология основана на советских ГОСТах и современных финских решениях.</b></span></p>
-			<p>Все знают панельные дома, их плюсы и минусы:</p>
-
-			<div class="lists">
-				<div class="list">
-					<p><b>Плюсы:</b></p>
-					<ul>
-						<li>Скорость строительства</li>
-						<li>Цена</li>
-					</ul>
-				</div>
-				<div class="list">
-					<p><b>Минусы:</b></p>
-					<ul>
-						<li>Типовые планировки</li>
-						<li>низкие потолки – до 2,5м</li>
-						<li>низкая шумоизоляция</li>
-						<li>широкие некрасивые швы между панелями</li>
-						<li>скучные однотипные фасады</li>
-					</ul>
-				</div>
-			</div>
-
-			<p>Все минусы панельных многоквартирных домов обусловлены тем, что в старых панельных домах панели – самонесущие, то есть сами себя несут.</p>
-			<p><span><b>В нашей технологии несущую функцию мы перенесли на железобетонную раму, состоящую из колонн и ригелей.</b></span> Это позволяет нам делать потолки в доме любой высоты и делать свободные планировки.<br><br>По такому же принципу ведется строительство монолитных многоквартирных домов – сначала делают монолитный каркас, который затем заполняют блоками или кирпичом.<br><br><span><b>Кроме изменения несущей функции мы улучшили технологию и самих панелей:</b></span></p>
+			<p><span><b>Мы, Хабаровский завод домокомплектов «КПД 100» – сделали коттеджное строительство доступным!</b></span></p>
+			<p>Всего за год – у нас заказали более 100 домов в Хабаровске и Владивостоке!</p>
+			<p>«КПД 100» - первый на Дальнем востоке завод по производству теплых железобетонных домокомплектов.</p>
+			<p>Наши домокомплект состоят из:</p>
 			<ul>
-				<li>Сделали панели горизонтальными и длинными – до 6м, благодаря чему уменьшилось количество швов</li>
-				<li>Наши панели идеальной геометрии – благодаря нашему новейшему оборудованию</li>
-				<li>Между нашими панелями швы минимальны – до 2см, которые мы дополнительно закрываем декоративными планками, тем самым мы улучшили теплоизоляцию</li>
-				<li>Монтаж утеплителя внутри панели производится на заводе, что исключает «пустоты», как при утеплении дома «по- старинке» на земельном участке.</li>
-				<li>Наши перекрытия – уникальны для России, они имеют сразу 3 слоя: ребристая плита, высокоэффективный утеплитель и бетонная стяжка.</li>
-				<li>В коттеджах нет соседей – поэтому вопрос о шумоизоляции не стоит</li>
+				<li>монолитной несущей рамы (колонно-ригельная система)</li>
+				<li>бетонных перекрытий (ребристые плиты перекрытия с утеплителем и без)</li>
+				<li>трехслойных стен (бетон 5см / утеплитель 15 см / бетон 6 см)</li>
+				<li>трехслойных утепленных угловых элементов</li>
 			</ul>
 		</div>
 
 		<div class="technology-images">
-			<a href="<?php echo $template_url; ?>/img/technology-people-big.jpg?v=1.1" class="technology-image image" data-fancybox>
-				<img src="<?php echo $template_url; ?>/img/technology-people-small.jpg?v=1.1" alt="technology" class="img-responsive">
+			<a href="<?php echo $template_url; ?>/img/technology/1.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/1.jpg?v=1.2" alt="technology" class="img-responsive">
 			</a>
-			<a href="<?php echo $template_url; ?>/img/technology-classic-big.jpg?v=1.1" class="technology-image image" data-fancybox>
-				<img src="<?php echo $template_url; ?>/img/technology-classic-small.jpg?v=1.1" alt="technology" class="img-responsive">
+			<a href="<?php echo $template_url; ?>/img/technology/2.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/2.jpg?v=1.2" alt="technology" class="img-responsive">
 			</a>
+		</div>
+
+		<div class="technology-images">
+			<a href="<?php echo $template_url; ?>/img/technology/3.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/3.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+			<a href="<?php echo $template_url; ?>/img/technology/4.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/4.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+		</div>
+
+		<div class="text">
+			<p>Нашими специалистами были изготовлены все формы, оборудованы пропарочные камеры. У нас работает формовочный цех и цех металлоконструкций. Мы создали и запустили собственную линию по производству домокомплектов!</p>
+			<p>Сейчас около 60% готового дома выходит с нашего завода. В будущем мы доведём этот показатель до 90%.</p>
+		</div>
+
+		<div class="technology-images">
+			<a href="<?php echo $template_url; ?>/img/technology/5.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/5.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+			<a href="<?php echo $template_url; ?>/img/technology/6.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/6.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+			<a href="<?php echo $template_url; ?>/img/technology/7.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/7.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+		</div>
+
+		<div class="text">
+			<p>Благодаря нашим специалистам и высокой производительности труда - мы производим 7 домокомплектов в месяц!</p>
+		</div>
+
+		<div class="technology-images">
+			<a href="<?php echo $template_url; ?>/img/technology/8.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/8.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+			<a href="<?php echo $template_url; ?>/img/technology/9.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/9.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+			<a href="<?php echo $template_url; ?>/img/technology/10.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/10.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+		</div>
+
+		<div class="technology-images">
+			<a href="<?php echo $template_url; ?>/img/technology/11.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/11.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+			<a href="<?php echo $template_url; ?>/img/technology/12.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/12.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+			<a href="<?php echo $template_url; ?>/img/technology/13.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/13.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+		</div>
+
+		<div class="text">
+			<p>Собирается такой домокомплект на участке всего за 5-7 дней! Дом с фундаментом, кровлей, фасадом, окнами и дверьми мы строим всего за 3-4 месяца<sup><small>*</small></sup></p>
+			<p><sup><small>*</small></sup>со дня производства домокомплекта</p>
+		</div>
+
+		<div class="technology-images">
+			<a href="<?php echo $template_url; ?>/img/technology/14.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/14.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+			<a href="<?php echo $template_url; ?>/img/technology/15.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/15.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+		</div>
+
+		<div class="technology-images">
+			<a href="<?php echo $template_url; ?>/img/technology/16.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/16.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+			<a href="<?php echo $template_url; ?>/img/technology/17.jpg?v=1.2" class="technology-image image" data-fancybox="technology">
+				<img src="<?php echo $template_url; ?>/img/technology/sm/17.jpg?v=1.2" alt="technology" class="img-responsive">
+			</a>
+		</div>
+
+		<div class="text">
+			<p>Наша технология позволяет по желанию клиента менять размер, расположение окон и дверей, менять высоту потолка.</p>
+			<p><span><b>Но главное – купить наш дом с участком и сетями вы можете по цене обычной квартиры!</b></span></p>
 		</div>
 
 	</div>

@@ -96,6 +96,16 @@ $(function() {
 	});
 	/* TABS HOME PAGE */
 
+	/* TABS HOME PAGE */
+	// $( '.tab_btn' ).on( 'click', function() {
+	// 	var $this   = $( this ),
+	// 	dataTab = $this.data( 'tab' ),
+	// 	$tabs   = $this.closest( '.tabs' );
+
+	// 	$tabs.find( '.tab_content, .tab_btn' ).removeClass( 'active' ).filter( '[data-tab="' + dataTab + '"]' ).addClass( 'active' );
+	// });
+	/* TABS HOME PAGE */
+
 
 
 	/* MASK PHONE INPUT */
